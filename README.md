@@ -1,5 +1,5 @@
-Hey there! I'm Neha Kumari.
-____________________________________
+**Hey there! I'm Neha Kumari.
+**____________________________________
 
 About Me
 •	Passionate to explore new technologies.
