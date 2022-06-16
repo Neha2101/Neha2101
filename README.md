@@ -1,6 +1,11 @@
+Hey there! I'm Neha Kumari.
+____________________________________
+
 About Me
-- 👋 Hey there!I’m Neha Kumari.
-- 👀 Passionate to explore new technologies.
-- 📫 Studying of Information Technology at LCET.
-- 🌱 Learning more about Web development lifecycle.
+•	Passionate to explore new technologies.
+•	Studying of Information Technology at LCET.
+•	Learning more about Web development lifecycle.
+•	Exploring data structures and algorithms.
+•	I like writing reading. Writing be it newspapers or academic books as hobbies.
+
 
