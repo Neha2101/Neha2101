@@ -3,5 +3,4 @@ About Me
 - 👀 Passionate to explore new technologies.
 - 📫 Studying of Information Technology at LCET.
 - 🌱 Learning more about Web development lifecycle.
-- 💞️ I’m looking to collaborate on ...
 
